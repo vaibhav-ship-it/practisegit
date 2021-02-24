@@ -1,2 +1,3 @@
 module practise {
+  requires moduleA
 }
