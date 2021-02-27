@@ -17,6 +17,7 @@ public class A {
 	  System.out.println("Inside A.java main method");
 	  System.out.println("Another line added for testing purpose");
 	  System.out.println("Another line");
+	  System.out.println("Change for master branch");
 	}
 
 }
