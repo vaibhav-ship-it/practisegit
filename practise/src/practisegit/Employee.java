@@ -4,6 +4,7 @@ import java.util.Date;
 
 // Employee class
 public class Employee {
+	// Change 2
 	// Change 1
 	private String name;
 	private String state;
@@ -11,6 +12,6 @@ public class Employee {
 	private long salary;	
 	private int age;
 	private Date dateOfJoining;
-
+  	//Just a comment!
 }
 
