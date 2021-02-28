@@ -11,7 +11,7 @@ public class Employee {
 	private String name;
 	private String state;
 	private String address; // Conflicts resolved
-	private double salary;	
+	private long salary;	
 	private int age;
 	private Date dateOfJoining;
   	//Just a comment!
