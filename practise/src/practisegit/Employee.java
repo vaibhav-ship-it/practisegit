@@ -1,4 +1,7 @@
 package practisegit;
+
+import java.util.Date;
+
 // Employee class
 public class Employee {
 	// Change 2
@@ -8,6 +11,7 @@ public class Employee {
 	private String address; // Conflicts resolved
 	private long salary;	
 	private int age;
-	//Just a comment!
+	private Date dateOfJoining;
+  	//Just a comment!
 }
 

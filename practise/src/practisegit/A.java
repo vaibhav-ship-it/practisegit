@@ -14,7 +14,10 @@ public class A {
 	 */
 	public static void main(String[] args) {
 	  	
-	  // Comment added for testing	
+	  // Comment added for testing !!! asdf	
+
+	  // Comment added for testing !!! xyz	
+
 	  System.out.println("Inside A.java main method");
 	  System.out.println("Another line added for testing purpose");
 	  System.out.println("Another line");
