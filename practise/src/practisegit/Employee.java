@@ -1,7 +1,8 @@
 package practisegit;
 // Employee class
 public class Employee {
-	//Change 2
+	// Change 2
+	// Change 1
 	private String name;
 	private String state;
 	private String address; // Conflicts resolved
