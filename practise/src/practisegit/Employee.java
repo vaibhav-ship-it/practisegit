@@ -3,7 +3,7 @@ package practisegit;
 public class Employee {
 	private String name;
 	private String address;
-	private long salary;	
+	private double salary;	
 	private int age;
 
 }
