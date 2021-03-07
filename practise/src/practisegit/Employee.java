@@ -14,6 +14,7 @@ public class Employee {
 	private double salary;	
 	private int age;
 	private Date dateOfJoining;
+	private String city;
   	//Just a comment!
 }
 
